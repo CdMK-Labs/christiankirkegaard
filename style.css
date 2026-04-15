@@ -541,6 +541,7 @@ footer p {
 .edu-card.reveal:nth-child(2) { transition-delay: 0.08s; }
 .edu-card.reveal:nth-child(3) { transition-delay: 0.16s; }
 .edu-card.reveal:nth-child(4) { transition-delay: 0.24s; }
+.edu-card.reveal:nth-child(5) { transition-delay: 0.32s; }
 
 /* ══════════════════════════════════════
    MOBILE
