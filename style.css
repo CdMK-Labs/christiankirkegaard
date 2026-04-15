@@ -372,11 +372,6 @@ body {
     z-index: 1;
 }
 
-.role-dot.active {
-    background: var(--color-accent);
-    box-shadow: 0 0 0 4px var(--color-accent-light);
-}
-
 .role-body h4 {
     font-size: 1rem;
     font-weight: 600;
@@ -542,6 +537,8 @@ footer p {
 .edu-card.reveal:nth-child(3) { transition-delay: 0.16s; }
 .edu-card.reveal:nth-child(4) { transition-delay: 0.24s; }
 .edu-card.reveal:nth-child(5) { transition-delay: 0.32s; }
+.edu-card.reveal:nth-child(6) { transition-delay: 0.4s; }
+.edu-card.reveal:nth-child(7) { transition-delay: 0.48s; }
 
 /* ══════════════════════════════════════
    MOBILE
